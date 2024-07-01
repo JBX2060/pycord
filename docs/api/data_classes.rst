@@ -49,6 +49,11 @@ Message
 .. autoclass:: MessageReference
     :members:
 
+.. attributetable:: MessageCall
+
+.. autoclass:: MessageCall
+    :members:
+
 .. attributetable:: PartialMessage
 
 .. autoclass:: PartialMessage
@@ -169,6 +174,11 @@ Flags
 .. attributetable:: MemberFlags
 
 .. autoclass:: MemberFlags()
+    :members:
+
+.. attributetable:: RoleFlags
+
+.. autoclass:: RoleFlags()
     :members:
 
 Colour
